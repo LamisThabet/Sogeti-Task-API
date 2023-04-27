@@ -4,7 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9869e868-2701-48b0-9f61-087807b49fe4" name="Changes" comment="generated reports" />
+    <list default="true" id="9869e868-2701-48b0-9f61-087807b49fe4" name="Changes" comment="generated reports">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Testing Sogeti APIs/Sogeti-API-Tests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Testing Sogeti APIs/Sogeti-API-Tests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/jquery-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/junitreports/TEST-tests.firstCaseTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/junitreports/TEST-tests.secondCaseTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/old/Testing Sogeti APIs/Sogeti-API-Tests.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/old/Testing Sogeti APIs/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/old/Testing Sogeti APIs/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/old/Testing Sogeti APIs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/old/Testing Sogeti APIs/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/old/Testing Sogeti APIs/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/old/Testing Sogeti APIs/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/old/Testing Sogeti APIs/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/old/Testing Sogeti APIs/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/old/Testing Sogeti APIs/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/old/Testing Sogeti APIs/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/testng-reports1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/testng-reports2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/testng.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,22 +68,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/abdo4/IdeaProjects/Sogeti-Task-API/reports&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/abdo4/IdeaProjects/Sogeti-Task-API-RestAssured&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C:/Users/abdo4/IdeaProjects/Sogeti-Task-API/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Sogeti-Task-API" />
       <shortenClasspath name="NONE" />
@@ -91,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682628983255</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="generated reports">
+      <created>1682629416305</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682629416305</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
